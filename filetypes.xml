@@ -9,6 +9,7 @@
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="tvars" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
