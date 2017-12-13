@@ -4,6 +4,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
